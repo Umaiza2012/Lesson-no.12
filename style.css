@@ -1,0 +1,52 @@
+/*Selector (syntax css)*/
+h1
+{
+ position:fixed;
+background-color:greenyellow;
+padding:10 px;
+width:100%;
+margin:0;
+}
+#p1
+{
+ position:static;
+background-color: aquamarine;
+}
+#p2
+{
+position: static;
+    background-color:orange;
+    
+}
+#p3
+{
+position: absolute;
+    background-color: yellow;
+
+}
+#p4
+{
+position: static;
+    background-color: goldenrod;
+    margin-top:80px;
+
+}
+#p5
+{
+position: absolute;
+    background-color: burlywood;
+
+}
+#p6
+{
+position: static;
+    background-color: peru;
+
+}
+#footer
+{
+    bottom:0;
+position: sticky;
+    background-color: violet;
+
+}
